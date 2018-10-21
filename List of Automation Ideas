@@ -2,7 +2,7 @@ What to Automate?
 
 Primary:
 -Packaging software, at least the part in the kshare
-
+-Use K to disjoin rejoin a computer from the domain, maybe give specific 
 
 Secondary:
 -Adding users to remote desktop group on a remote computer, also checking who is on there already
