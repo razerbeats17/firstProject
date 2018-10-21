@@ -1,4 +1,8 @@
 What to Automate?
 
+Primary:
+-Packaging software, at least the part in the kshare
 
-Packaging software, at least the part in the kshare
+
+Secondary:
+-Adding users to remote desktop group on a remote computer, also checking who is on there already
